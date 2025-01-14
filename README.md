@@ -34,6 +34,8 @@ ShopEasy, an online retail business, has observed:
 - **Conversion Rates**: Identified seasonal trends and underperforming product categories.
 - **Engagement**: Recommended engaging content types and optimized calls to action.
 - **Feedback Analysis**: Highlighted areas for improvement in customer experience to raise average ratings.
+  
+<img width="832" alt="Capture d’écran, le 2025-01-06 à 20 04 13" src="https://github.com/user-attachments/assets/410fb119-5434-43f6-9e14-98adb8484aa4" />
 
 ## How to Run
 1. **SQL Scripts**: Use the `.sql` files in the `scripts` folder to preprocess the database.
